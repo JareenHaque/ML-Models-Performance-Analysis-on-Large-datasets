@@ -31,5 +31,4 @@ OneHotEncoder, StandardScaler, Pipeline, LabelEncoder
 ColumnTransformer, compute_class_weight
 
 Skills: Python (Programming Language) · Pandas (Software) · Anaconda · Seaborn · Machine Learning · Artificial Intelligence (AI) · Data Analytics · Data Visualization · Data Analysis
-
-Read technical report more more through understanding of the work.
+.
